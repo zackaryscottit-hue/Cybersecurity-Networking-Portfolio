@@ -49,6 +49,15 @@ The goal was to implement network segmentation, configure firewall policies, eva
 
 ## Project Evidence
 
+### Network Baseline
+![Network Baseline](phaseA_baseline.png)
+
+### Network Topology
+![Network Topology](PhaseB_topology.png)
+
+### Firewall Configuration
+![Firewall Configuration](phaseD_firewall.png)
+
 Network diagrams, screenshots, scan results, and firewall configuration evidence will be uploaded to this repository.
 
 ## Key Takeaways
