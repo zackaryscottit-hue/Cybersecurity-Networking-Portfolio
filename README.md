@@ -20,7 +20,7 @@ This portfolio documents cybersecurity and networking projects completed in virt
 
 ## Featured Projects
 
-### 1. Enterprise Network Security Assessment
+### 1. [Enterprise Network Security Assessment](01-Enterprise-Network-Security/README.md)
 Designed and tested a segmented enterprise network using GNS3, pfSense, Kali Linux, and Ubuntu. Performed network discovery, firewall validation, vulnerability scanning, and traffic analysis.
 
 ### 2. SIEM Implementation & Threat Detection
