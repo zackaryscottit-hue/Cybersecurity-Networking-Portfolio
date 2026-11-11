@@ -55,6 +55,15 @@ The project combined firewall configuration, VPN implementation, multifactor aut
 
 ## Project Evidence
 
+### pfSense Firewall Setup
+![pfSense Setup](PhaseB_pfSenseSetup.png)
+
+### Firewall Security Rules
+![Firewall Rules](PhaseC_Rules.png)
+
+### NAT Configuration
+![NAT Configuration](PhaseD_NATConfig.png)
+
 Configuration screenshots, VPN traffic captures, firewall rules, and VLAN diagrams will be added here.
 
 ## Key Takeaways
