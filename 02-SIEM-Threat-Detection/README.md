@@ -51,7 +51,16 @@ The objective was to improve threat visibility, investigate suspicious authentic
 - Detection rule configuration
 - Event correlation and troubleshooting
 
-## Project Evidence
+## ## Project Evidence
+
+### SIEM Dashboard
+![SIEM Dashboard](PhaseC_Dashboard.png)
+
+### Security Alert Configuration
+![Alert Rule](PhaseC_AlertRule.png)
+
+### Event Correlation
+[View Correlation Results](PhaseD_Correlation.txt)
 
 Screenshots of SIEM dashboards, alert configurations, and event correlation results will be added here.
 
