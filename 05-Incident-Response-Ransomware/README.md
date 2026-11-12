@@ -55,7 +55,20 @@ The project focused on monitoring suspicious endpoint activity using Splunk and 
 
 ## Project Evidence
 
-Screenshots of Splunk alerts, network traffic analysis, and recovery validation will be added here.
+### Phase A: Incident Response Planning
+![Incident Response Concept Map](PhaseA_ConceptMap.png)
+
+### Phase B: Splunk Deployment
+![Splunk Setup](PhaseB_SplunkSetup.png)
+
+### Phase C: Ransomware Detection Alert
+![Splunk Alert](PhaseC_SplunkAlert.png)
+
+### Phase C: Network Traffic Analysis
+![Wireshark Capture](PhaseC_Wireshark.png)
+
+### Phase D: System Recovery
+![VM Recovery](PhaseD_Restore.png)
 
 ## Key Takeaways
 
