@@ -29,7 +29,7 @@ Configured Wazuh, Kibana, Splunk, and Sysmon to collect and analyze security eve
 ### 3. Firewall, VPN & Network Segmentation
 Implemented pfSense firewall policies, OpenVPN, IPsec, VLAN segmentation, and access control rules to secure communication between network zones.
 
-### 4. Vulnerability Assessment & Penetration Testing
+### 4. [Vulnerability Assessment & Penetration Testing](04-Vulnerability-Assessment-Penetration-Testing/README.md)
 Performed authorized security testing against intentionally vulnerable lab systems using Nmap, OpenVAS, and Metasploit.
 
 ### 5. Incident Response & Ransomware Simulation
