@@ -21,18 +21,18 @@ This portfolio documents cybersecurity and networking projects completed in virt
 ## Featured Projects
 
 ### 1. [Enterprise Network Security Assessment](01-Enterprise-Network-Security/README.md)
-Designed and tested a segmented enterprise network using GNS3, pfSense, Kali Linux, and Ubuntu. Performed network discovery, firewall validation, vulnerability scanning, and traffic analysis.
+Designed and tested a segmented enterprise network using VMware Workstation, pfSense, Kali Linux, and Ubuntu. Performed network discovery, firewall validation, vulnerability scanning, and traffic analysis.
 
-### 2. SIEM Implementation & Threat Detection
+### 2. [SIEM Implementation & Threat Detection](02-SIEM-Threat-Detection/README.md)
 Configured Wazuh, Kibana, Splunk, and Sysmon to collect and analyze security events, investigate suspicious activity, and develop detection rules.
 
-### 3. Firewall, VPN & Network Segmentation
+### 3. [Firewall, VPN & Network Segmentation](03-Firewall-VPN-Network-Segmentation/README.md)
 Implemented pfSense firewall policies, OpenVPN, IPsec, VLAN segmentation, and access control rules to secure communication between network zones.
 
 ### 4. [Vulnerability Assessment & Penetration Testing](04-Vulnerability-Assessment-Penetration-Testing/README.md)
 Performed authorized security testing against intentionally vulnerable lab systems using Nmap, OpenVAS, and Metasploit.
 
-### 5. Incident Response & Ransomware Simulation
+### 5. [Incident Response & Ransomware Simulation](05-Incident-Response-Ransomware/README.md)
 Conducted a controlled ransomware simulation, monitored security events through Splunk, investigated suspicious activity, and practiced containment and recovery procedures.
 
 ### 6. Security Automation
