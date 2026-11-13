@@ -50,9 +50,25 @@ The objective was to reduce manual analysis and generate useful security reports
 - Security monitoring
 
 ## Project Evidence
+### Phase A: SSH Log Analysis
+![SSH Log Analysis](PhaseA_SSH_Log_Analysis.png)
 
-The Python scripts and their sample output files will be added here.
+### Phase B: Tool Verification
+![Tool Versions](PhaseB_Tool_Versions.png)
 
+### Phase C: SSH Log Parsing
+![SSH Log Parser](PhaseC_SSH_Log_Parsing.png)
+
+### Phase D: Network Traffic Analysis
+![Traffic Analysis](PhaseD_Traffic_Analysis.png)
+
+### Python Scripts
+- [SSH Log Parser](ssh_log_parser.py)
+- [PCAP Analyzer](pcap_analyzer.py)
+
+### Generated Reports
+- [SSH Authentication Failures](ssh_failures.csv)
+- [Network Traffic Summary](traffic_summary.txt)
 ## Key Takeaways
 
 This project demonstrated how Python automation can support cybersecurity operations by simplifying repetitive analysis tasks, identifying suspicious authentication activity, and summarizing network traffic.
