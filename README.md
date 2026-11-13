@@ -35,7 +35,7 @@ Performed authorized security testing against intentionally vulnerable lab syste
 ### 5. [Incident Response & Ransomware Simulation](05-Incident-Response-Ransomware/README.md)
 Conducted a controlled ransomware simulation, monitored security events through Splunk, investigated suspicious activity, and practiced containment and recovery procedures.
 
-### 6. Security Automation
+### 6. [Security Automation with Python](06-Security-Automation/README.md)
 Developed Python scripts for SSH authentication log analysis and packet capture analysis to support security monitoring and investigation.
 
 ## Certifications
