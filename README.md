@@ -41,6 +41,8 @@ Developed Python scripts for SSH authentication log analysis and packet capture 
 ### 7. [Network Access Control (NAC) & Zero Trust](07-Network-Access-Control/README.md)
 Deployed PacketFence NAC, configured pfSense VLAN segmentation, implemented guest captive portal policies, and explored LDAP authentication integration to strengthen network access security.
 
+### 8. [Intrusion Detection & Prevention (IDS/IPS)](08-Intrusion-Detection-Prevention/README.md)
+Configured Snort IDS, developed custom detection rules, analyzed network traffic using Wireshark, and investigated security alerts. Tuned detection rules to improve accuracy and reduce false positives.
 
 ## Certifications
 
