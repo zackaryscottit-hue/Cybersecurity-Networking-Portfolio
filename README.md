@@ -38,6 +38,10 @@ Conducted a controlled ransomware simulation, monitored security events through 
 ### 6. [Security Automation with Python](06-Security-Automation/README.md)
 Developed Python scripts for SSH authentication log analysis and packet capture analysis to support security monitoring and investigation.
 
+### 7. [Network Access Control (NAC) & Zero Trust](07-Network-Access-Control/README.md)
+Deployed PacketFence NAC, configured pfSense VLAN segmentation, implemented guest captive portal policies, and explored LDAP authentication integration to strengthen network access security.
+
+
 ## Certifications
 
 - Cisco Certified Network Associate (CCNA)
