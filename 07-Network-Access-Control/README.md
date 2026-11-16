@@ -54,7 +54,22 @@ The objective was to control network access, separate corporate and guest device
 
 ## Project Evidence
 
-Screenshots of PacketFence deployment, VLAN configuration, authentication settings, and network access validation will be added here.
+
+### Phase A: Network Traffic Capture
+![Network Traffic Capture](phaseA_capture.png)
+
+### Phase B: PacketFence Dashboard
+![PacketFence Dashboard](phaseB_dashboard.png)
+
+### Phase C: NAC Logs
+![NAC Logs](phaseC_Logs.png)
+
+### Phase C: Network Access Policy
+![Network Access Policy](phaseC_policy.png)
+
+### Phase D: LDAP Configuration
+![LDAP Configuration](phaseD_ldap.png)
+
 
 ## Key Takeaways
 
