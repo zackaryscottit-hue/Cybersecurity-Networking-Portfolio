@@ -57,7 +57,22 @@ The objective was to gain practical experience with network-based intrusion dete
 
 ## Project Evidence
 
-Screenshots of IDS deployment, Snort alerts, detection rules, and rule tuning will be added here.
+
+### Phase A: Wireshark Traffic Analysis
+![Wireshark Traffic Analysis](PhaseA_Wireshark.png)
+
+### Phase B: Snort Detection Alerts
+![Snort Alerts](PhaseB_Snort_Alerts.png)
+
+### Phase C: Alert Analysis
+[View Alert Analysis Spreadsheet](PhaseC_AlertAnalysis.xlsx)
+
+### Phase D: Snort Detection Rules
+![Snort Detection Rules](PhaseD_SnortRules.png)
+
+### Final Assessment Report
+[View IDS/IPS Report](Phase_D_Report.pdf)
+
 
 ## Key Takeaways
 
